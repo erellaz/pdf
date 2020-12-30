@@ -4,4 +4,4 @@
 - Split one pdf.
 - Encrypt a pdf with a password.
 
-Also has a QT interface foir those who do not want to script.
+Also has a QT interface for those who do not want to script.
