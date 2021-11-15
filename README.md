@@ -7,7 +7,7 @@
 
 Also has a QT interface for those who do not want to script.
 
-The install of pypdf with pip seems to install an outdated version of pypdf. The proper installation of pypdf is this:
+The install of pypdf with pip seems to install an outdated version of pypdf (in particular add_page() does not know the 'format' argument). The proper installation of pypdf is this:
 
 - git clone https://github.com/reingart/pyfpdf.git
 - cd pyfpdf
