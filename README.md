@@ -9,6 +9,6 @@ Also has a QT interface for those who do not want to script.
 
 The install of pypdf with pip seems to install an outdated version of pypdf. The proper installation of pypdf is this:
 
-git clone https://github.com/reingart/pyfpdf.git
-cd pyfpdf
-python setup.py install
+- git clone https://github.com/reingart/pyfpdf.git
+- cd pyfpdf
+- python setup.py install
